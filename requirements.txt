@@ -1,0 +1,8 @@
+pandas
+numpy
+litellm
+gradio
+python-dotenv
+tqdm
+nbconvert
+ipykernel
