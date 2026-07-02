@@ -3,7 +3,7 @@
 This project implements a production-ready benchmark for scoring conversation turns on 300+ distinct facets using open-weight LLMs (<= 16B).
 
 ## Features
-- **Scalable Architecture**: Uses a hierarchical batching engine to process 5000+ facets without prompt overflow.
+- **Scalable Architecture**: Uses a hierarchical batching engine to process 300++ facets without prompt overflow.
 - **Open Weights Support**: Optimized for Llama 3, Qwen 2, and Mixtral via `litellm`.
 - **Confidence Scoring**: Every score includes a self-reported confidence level.
 - **Interactive Dashboard**: Built-in Gradio UI for score visualization.
